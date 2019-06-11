@@ -1,0 +1,30 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  background-image: url(https://static1.squarespace.com/static/5666412040667aca0c30081f/56664662a128e655b4532210/5b3f6cea0e2e72d1647d46e3/1530889724605/norbert-von-niman-367468-unsplash.jpg?format=2500w);
+  background-size: 2500px;
+  font-family: "Calibri", sans-serif;
+  font-weight: bold;
+  padding: 75px 25px;
+  font-size: 30px;
+  margin: 0;
+  color: #FFF;
+}
+
+h1 {
+  font-family: "Calibri", sans-serif;
+  font-size: 15px;
+}
+
+h2{
+  font-family: "Calibri", sans-serif;
+  font-size: 20px;
+  padding: 140px 25px;
+}
+
+h3{
+  font-family: "Calibri", sans-serif;
+  font-size: 20px;
+}
